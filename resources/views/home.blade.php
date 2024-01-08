@@ -82,7 +82,7 @@
     success : function(data) {
     var datum=JSON.stringify(data);
      arr = $.parseJSON(datum); //convert to javascript array
-    console.log(arr)  
+    //console.log(arr)  
 var item = arr.find(item => item.number === gnumber);
 if(item != undefined)
 {
