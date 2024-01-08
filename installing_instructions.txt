@@ -1,0 +1,4 @@
+1. Fisrtly download project directory from github named redeem_gift into htdocs folder
+2. Now import data in phpmyadmin from root_directory (present in redeem_gift/DB_folder/redeem_gift.sql)
+3. Setup database properly with same name
+4. Now load project url http://localhost/redeem_gift/public/
